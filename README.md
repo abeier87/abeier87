@@ -1,6 +1,6 @@
 # Hi there, welcome to my Github! 
 
-** Let’s shout 2+5 together~ **
+**Let’s shout 2+5 together~**
 
 
 <!--
